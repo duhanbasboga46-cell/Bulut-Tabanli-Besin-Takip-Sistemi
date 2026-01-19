@@ -1,0 +1,20 @@
+{
+  "besinler": [
+    {"isim": "Yumurta", "kalori": 143, "protein": 13.0, "karbo": 1.1, "yag": 11.0, "lif": 0.0, "seker": 1.1, "sodyum": 124, "potasyum": 126, "doymus_yag": 3.3},
+    {"isim": "Yumurta Aki", "kalori": 52, "protein": 11.0, "karbo": 0.7, "yag": 0.2, "lif": 0.0, "seker": 0.7, "sodyum": 166, "potasyum": 163, "doymus_yag": 0.0},
+    {"isim": "Kelle Paca (Sulu)", "kalori": 75, "protein": 4.5, "karbo": 2.0, "yag": 5.0, "lif": 0.0, "seker": 0.5, "sodyum": 180, "potasyum": 110, "doymus_yag": 2.1},
+    {"isim": "Kelle Paca (Etli)", "kalori": 135, "protein": 15.0, "karbo": 2.0, "yag": 8.0, "lif": 0.0, "seker": 0.5, "sodyum": 210, "potasyum": 140, "doymus_yag": 3.5},
+    {"isim": "Ton Baligi (Suzulmus)", "kalori": 190, "protein": 25.0, "karbo": 0.0, "yag": 10.0, "lif": 0.0, "seker": 0.0, "sodyum": 350, "potasyum": 220, "doymus_yag": 1.5},
+    {"isim": "Tavuk Gogsu (Izgara)", "kalori": 165, "protein": 31.0, "karbo": 0.0, "yag": 3.6, "lif": 0.0, "seker": 0.0, "sodyum": 74, "potasyum": 256, "doymus_yag": 1.0},
+    {"isim": "Yulaf Ezmesi", "kalori": 370, "protein": 13.0, "karbo": 66.0, "yag": 7.0, "lif": 10.0, "seker": 1.0, "sodyum": 2, "potasyum": 429, "doymus_yag": 1.3},
+    {"isim": "Muz", "kalori": 89, "protein": 1.1, "karbo": 23.0, "yag": 0.3, "lif": 2.6, "seker": 12.0, "sodyum": 1, "potasyum": 358, "doymus_yag": 0.1},
+    {"isim": "Pilav (Pirinc)", "kalori": 130, "protein": 2.7, "karbo": 28.0, "yag": 0.2, "lif": 0.4, "seker": 0.1, "sodyum": 1, "potasyum": 35, "doymus_yag": 0.1},
+    {"isim": "Salcalı Makarna", "kalori": 160, "protein": 5.5, "karbo": 30.0, "yag": 1.5, "lif": 1.8, "seker": 1.5, "sodyum": 5, "potasyum": 44, "doymus_yag": 0.3},
+    {"isim": "Kiymali Bezelye", "kalori": 95, "protein": 7.0, "karbo": 10.0, "yag": 4.0, "lif": 4.5, "seker": 3.5, "sodyum": 250, "potasyum": 200, "doymus_yag": 1.8},
+    {"isim": "Suzme Yogurt", "kalori": 95, "protein": 9.0, "karbo": 4.0, "yag": 5.0, "lif": 0.0, "seker": 4.0, "sodyum": 40, "potasyum": 120, "doymus_yag": 3.2},
+    {"isim": "Cicibebe", "kalori": 440, "protein": 5.0, "karbo": 75.0, "yag": 14.0, "lif": 2.0, "seker": 25.0, "sodyum": 220, "potasyum": 110, "doymus_yag": 6.5},
+    {"isim": "Irmik", "kalori": 360, "protein": 12.0, "karbo": 73.0, "yag": 1.0, "lif": 3.9, "seker": 0.0, "sodyum": 1, "potasyum": 186, "doymus_yag": 0.2},
+    {"isim": "Fistik Ezmesi", "kalori": 588, "protein": 25.0, "karbo": 20.0, "yag": 50.0, "lif": 8.0, "seker": 9.0, "sodyum": 15, "potasyum": 650, "doymus_yag": 10.0},
+    {"isim": "Altinbasak Cips", "kalori": 400, "protein": 8.0, "karbo": 65.0, "yag": 12.0, "lif": 11.0, "seker": 5.0, "sodyum": 600, "potasyum": 150, "doymus_yag": 2.5}
+  ]
+}
